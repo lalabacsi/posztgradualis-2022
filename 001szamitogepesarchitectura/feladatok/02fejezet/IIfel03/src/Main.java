@@ -15,9 +15,9 @@
                 int a2esb = a2 ^ b;
                 int a3esb = a3 ^ b;
 
-                System.out.println("a:) " + a1 + " es " + b + " = " + a1esb);
-                System.out.println("    " + a2 + " es " + b + " = " + a2esb);
-                System.out.println("    " + a3 + " es " + b + " = " + a3esb);
+                System.out.println("a:) " + a1 + " vagy " + b + " = " + a1esb);
+                System.out.println("    " + a2 + " vagy " + b + " = " + a2esb);
+                System.out.println("    " + a3 + " vagy " + b + " = " + a3esb);
 //b
 
                 int b1 = 1542;
@@ -27,9 +27,9 @@
                 int b2esb = b2 ^ b;
                 int b3esb = b3 ^ b;
 
-                System.out.println("b:) " + b1 + " es " + b + " = " + b1esb);
-                System.out.println("    " + b2 + " es " + b + " = " + b2esb);
-                System.out.println("    " + b3 + " es " + b + " = " + b3esb);
+                System.out.println("b:) " + b1 + " vagy " + b + " = " + b1esb);
+                System.out.println("    " + b2 + " vagy " + b + " = " + b2esb);
+                System.out.println("    " + b3 + " vagy " + b + " = " + b3esb);
 //c
                 int c1 = 2046;
                 int c2 = 2048;
@@ -39,9 +39,9 @@
                 int c2esb = c2 ^ b;
                 int c3esb = c3 ^ b;
 
-                System.out.println("c:) " + c1 + " es " + b + " = " + c1esb);
-                System.out.println("    " + c2 + " es " + b + " = " + c2esb);
-                System.out.println("    " + c3 + " es " + b + " = " + c3esb);
+                System.out.println("c:) " + c1 + " vagy " + b + " = " + c1esb);
+                System.out.println("    " + c2 + " vgay " + b + " = " + c2esb);
+                System.out.println("    " + c3 + " vagy " + b + " = " + c3esb);
 
             }
         }
