@@ -10,7 +10,7 @@ public class Main {
         if (((int)karakter)>64&&((int)karakter)<91){
             System.out.println("Karakter nagy betu");
         }
-        if (((int)karakter)>96&&((int)karakter)<1231) {
+        if (((int)karakter)>96&&((int)karakter)<123) {
             System.out.println("Karakter kis betu");
         }
         if (((int)karakter)>48&&((int)karakter)<58) {
