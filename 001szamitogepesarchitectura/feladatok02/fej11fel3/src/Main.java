@@ -26,7 +26,7 @@ public class Main {
             if (file.equals("*")) {
                 break;
             }
-            Path ujFajlUtja = Paths.get(args[0], file + ".txt");
+            Path ujFajlUtja = Paths.get(args[0], file + ".txt"); //arg[0] helyett ujFolderUtja
             Files.createFile(ujFajlUtja);
 
         }
