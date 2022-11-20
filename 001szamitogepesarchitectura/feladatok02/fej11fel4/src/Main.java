@@ -10,6 +10,7 @@ public class Main {
         //Írj egy programot ami addig kér be könyvtárneveket,
         // ameddig abban pont nem lesz (pl x, y, a.txt),
         //majd ez alapján létrehozza az aktuális könyvtárban az x/y/a.txt fájlt.
+        // while compare to for i
 
         Scanner sc = new Scanner(System.in);
 
